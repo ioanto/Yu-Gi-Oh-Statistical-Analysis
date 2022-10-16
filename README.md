@@ -1,7 +1,9 @@
 Yu-Gi-Oh Statistical Analysis
 ==============================
 
-An end-to-end data science project featuring the famous Yu-Gi-Oh trading card game.
+An end-to-end data science project featuring the famous Yu-Gi-Oh trading card game. The chart below specifies what part of the project can be found in which files.
+
+Every resource used or produced for the needs of the project is included in the repo.
 
 Project Organization
 ------------
@@ -53,5 +55,3 @@ Project Organization
 
 
 --------
-
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
